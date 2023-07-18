@@ -1,0 +1,2 @@
+# PROJECT
+用qt创建CMAKE例子
